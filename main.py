@@ -1,25 +1,3 @@
-"""
-flappy.py
-Single-file Pygame Flappy Bird clone.
-
-Requirements:
-    pip install pygame
-
-Assets:
-    Place the following images inside an 'assets/' folder (same folder as this script):
-    - base.png
-    - bg.png
-    - bird1.png
-    - bird2.png
-    - bird3.png
-    - pipe.png
-
-Controls:
-    SPACE / UP Arrow -> flap / jump
-    ESC or close window -> quit
-
-This version is plain-play (manual). Later we will plug NEAT into this file or import it.
-"""
 
 import pygame
 import os
