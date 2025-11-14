@@ -1,16 +1,3 @@
-"""
-Flappy Bird AI using NEAT
-Requirements:
-    pip install pygame neat-python
-Assets:
-    Place in 'assets/':
-    - base.png
-    - bg.png
-    - bird1.png, bird2.png, bird3.png
-    - pipe.png
-Controls:
-    None needed — AI plays automatically
-"""
 
 import pygame
 import os
